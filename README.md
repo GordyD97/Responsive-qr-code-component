@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -61,7 +61,6 @@ I will continue on usiong border radius correct padding spacing and better acces
 ## Author
 
 - Website - [Gordon Draine IV](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/GordyD97)
 - Twitter - [Gordon Draine Twitter.](https://twitter.com/Gordy_40)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
